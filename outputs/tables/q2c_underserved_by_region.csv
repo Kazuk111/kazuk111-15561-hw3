@@ -1,0 +1,8 @@
+Region,customers,zero_orders,low_orders,region_revenue,underserved,underserved_share,underserved_revenue_share,top3_categories
+North America,16,0,7,295874.5505,7,0.4375,0.0470,"Beverages, Dairy Products, Meat/Poultry"
+Latin America,21,0,6,197300.9830,6,0.2857,0.0664,"Beverages, Dairy Products, Seafood"
+British Isles,8,0,2,108951.2150,2,0.2500,0.0217,"Meat/Poultry, Dairy Products, Seafood"
+Western Europe,13,1,6,114743.1775,7,0.5385,0.1910,"Confections, Beverages, Dairy Products"
+Central Europe,16,0,2,390145.0310,2,0.1250,0.0204,"Dairy Products, Beverages, Confections"
+Nordics,7,0,0,112141.3650,0,0.0000,0.0000,"Beverages, Dairy Products, Produce"
+Southern Europe,10,1,3,46636.7175,4,0.4000,0.1402,"Meat/Poultry, Condiments, Grains/Cereals"

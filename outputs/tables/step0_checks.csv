@@ -1,0 +1,15 @@
+check,result,detail
+Expected sheets present,FLAG,missing=['Sheet1']; unexpected=['Suppliers']
+Product helper columns are formula-derived and dropped,OK,"Cheap('t'/'f', Price<10), NewPrice(=Price*1.07), Cheap.1 (0/1 dup), IsCheap(Price<=10), empty spacer col, NewPrice.1(=Price*1.1, 26/77 rows). Cheap vs IsCheap disagree on 3 product(s) (threshold < vs <=)."
+Foreign keys all resolve,OK,"{'Orders Details -> Orders': 0, 'Orders w/o lines': 0, 'Orders Details -> Product': 0, 'Orders -> Customers': 0, 'Orders -> Employees': 0, 'Orders -> Shippers': 0, 'Product -> Categories': 0}"
+No zero/negative Quantity or UnitPrice,OK,0 bad values
+"No duplicate (OrderID, ProductID) lines",OK,0 duplicates
+No order shipped before it was placed,OK,0 orders
+1998Q2 is partial,OK,36 of 91 days (88 orders) -> excluded from growth comparisons
+Total revenue matches across 4 computations,OK,"1,265,793.04"
+Orders per ShipCountry sum to 830,OK,830 orders in 21 countries
+UnitPrice (transaction) differs from Product.Price (current list),OK,"match 69.5% overall; 1996: 0%, 1997: 76%, 1998: 100% -> use Orders Details.UnitPrice"
+Discounts only at 0/5/10/15/20/25%,FLAG,"8 stray lines (values [0.01, 0.02, 0.03, 0.04, 0.06]) all in order(s) [11077]; kept in revenue totals, excluded from discount-level comparisons"
+Unshipped orders (ShippedDate null),OK,"21 orders, all placed in the last 4 weeks of data; 0 past RequiredDate at 1998-05-06. Excluded from late-shipment analysis."
+ShipCountry == customer Country,FLAG,"differs on 4/830 orders (5,219 revenue); ShipCity differs on 17 orders (13 are AROUT London->Colchester)"
+Customers with zero orders,OK,"2: FISSA (Spain), PARIS (France)"

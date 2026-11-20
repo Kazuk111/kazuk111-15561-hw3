@@ -1,0 +1,22 @@
+country,action,quadrant,total_revenue,revenue_share,orders_total,customers_total,rev_jul96_mar97,rev_jul97_mar98,orders_jul96_mar97,orders_jul97_mar98,customers_jul97_mar98,growth_yoy_9m,growth_yoy_6m_octmar,growth_yoy_q1,action_6m,action_q1,action_customer_country,low_confidence,concentrated,caveats
+USA,Invest,Large & outgrowing,245584.6105,0.1940,122,14,63527.3850,131531.8300,33,63,13,1.0705,0.7853,1.2006,Maintain,Invest,Invest,False,False,action changes under 6m
+Germany,Invest,Large & outgrowing,230284.6335,0.1819,122,13,47337.0450,118266.3535,33,55,11,1.4984,2.3387,3.6013,Invest,Invest,Invest,False,False,
+Austria,Maintain,Large & lagging,128003.8385,0.1011,40,2,36951.2600,53705.7910,14,18,2,0.4534,0.1897,0.8509,Maintain,Maintain,Maintain,False,True,2 active customer(s): growth hinges on very few accounts
+Brazil,Invest,Large & outgrowing,106925.7765,0.0845,83,9,29618.6400,65179.8865,22,49,9,1.2006,1.5207,2.9660,Invest,Invest,Invest,False,False,
+France,Maintain,Large & lagging,81358.3225,0.0643,77,11,30774.6000,39357.7525,26,40,10,0.2789,0.1305,0.3195,Maintain,Maintain,Maintain,False,False,
+UK,Maintain,Large & lagging,58971.3100,0.0466,56,7,16513.3800,25396.0850,18,24,7,0.5379,0.5531,0.9424,Maintain,Maintain,Maintain,False,False,
+Venezuela,Maintain,Large & lagging,56810.6290,0.0449,46,4,17876.4800,26942.5490,14,22,4,0.5072,0.4807,0.6033,Maintain,Maintain,Maintain,False,False,
+Sweden,Invest,Large & outgrowing,54495.1400,0.0431,37,2,8637.0450,27623.2225,10,20,2,2.1982,2.7166,5.9983,Invest,Invest,Invest,False,True,2 active customer(s): growth hinges on very few accounts
+Canada,Maintain,Large & lagging,50196.2900,0.0397,30,3,21306.2900,21795.5250,9,13,3,0.0230,-0.4100,-0.3675,Review,Review,Maintain,False,False,"action changes under 6m, q1"
+Ireland,Invest,Large & outgrowing,49979.9050,0.0395,19,1,10564.7550,31123.6500,6,9,1,1.9460,2.9226,12.2229,Invest,Invest,Invest,False,True,1 active customer(s): growth hinges on very few accounts
+Belgium,Maintain,Large & lagging,33824.8550,0.0267,19,2,12416.1800,17680.1950,5,10,2,0.4240,1.6592,1.1771,Invest,Invest,Maintain,False,True,"2 active customer(s): growth hinges on very few accounts; action changes under 6m, q1"
+Denmark,Review,Small & lagging,32661.0225,0.0258,18,2,16658.8000,13994.4375,5,10,2,-0.1599,-0.2876,-0.7561,Review,Review,Review,False,True,2 active customer(s): growth hinges on very few accounts
+Switzerland,Invest,Small & outgrowing,31692.6590,0.0250,18,2,6262.3200,14501.6390,4,8,2,1.3157,2.0588,0.1234,Invest,Review,Invest,True,True,only 4 orders in one window: growth % is unreliable; 2 active customer(s): growth hinges on very few accounts; action changes under q1
+Mexico,Review,Small & lagging,23582.0775,0.0186,28,5,5937.0000,5212.3650,10,9,3,-0.1221,-0.1462,1.1527,Review,Review,Review,False,False,
+Finland,Review,Small & lagging,18810.0525,0.0149,22,2,7247.5600,5771.2925,8,9,2,-0.2037,-0.1657,-0.6609,Review,Review,Review,False,True,2 active customer(s): growth hinges on very few accounts
+Spain,Invest,Small & outgrowing,17983.2000,0.0142,23,4,3314.4000,12793.0000,7,11,4,2.8598,5.8795,19.6715,Invest,Invest,Invest,False,False,
+Italy,Invest,Small & outgrowing,15770.1550,0.0125,28,3,3565.6300,9368.4250,8,15,3,1.6274,2.0414,0.7390,Invest,Review,Invest,False,False,action changes under q1
+Portugal,Review,Small & lagging,11472.3625,0.0091,13,2,5584.1250,1577.0375,8,3,1,-0.7176,-0.9896,-0.9824,Review,Review,Review,True,True,only 3 orders in one window: growth % is unreliable; 1 active customer(s): growth hinges on very few accounts
+Argentina,Invest,Small & outgrowing,8119.1000,0.0064,16,3,762.6000,6640.0000,2,10,3,7.7071,7.7071,6.7649,Invest,Invest,Invest,True,False,only 2 orders in one window: growth % is unreliable
+Norway,Invest,Small & outgrowing,5735.1500,0.0045,6,1,1058.4000,3854.4000,1,3,1,2.6417,2.1693,inf,Invest,Invest,Invest,True,True,only 1 orders in one window: growth % is unreliable; 1 active customer(s): growth hinges on very few accounts
+Poland,Invest,Small & outgrowing,3531.9500,0.0028,7,1,459.0000,1795.3500,1,4,1,2.9114,1.1511,inf,Invest,Invest,Invest,True,True,only 1 orders in one window: growth % is unreliable; 1 active customer(s): growth hinges on very few accounts

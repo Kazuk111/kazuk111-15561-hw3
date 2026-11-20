@@ -1,0 +1,9 @@
+factor,groups,chi2_late,perm_p_late,perm_p_at_risk,kruskal_p_processing,min_group_n
+shipper,3,0.7685,0.6933,0.4165,0.05256,245
+country,21,14.76,0.7786,0.8584,0.4737,6
+employee,9,7.043,0.5465,0.5809,0.5975,42
+order month,12,7.053,0.8088,0.8454,0.2542,30
+season (calendar quarter),4,2.238,0.5165,0.8242,0.2334,160
+lead time (RequiredDate − OrderDate),3,30.75,0.0002,0.0002,0.04813,59
+lines per order,4,1.903,0.5887,0.5719,0.03989,133
+order value quartile,4,1.013,0.767,0.5733,0.473,202

@@ -1,0 +1,8 @@
+Region,orders,combinable_same_city,combinable_same_customer,shipments_after_batching,freight_of_combinable,shipment_reduction
+North America,152,0.3092,0.2961,130,5462.9100,0.1447
+Latin America,173,0.4104,0.1618,137,3190.7000,0.2081
+British Isles,75,0.3733,0.2267,60,2916.3100,0.2000
+Western Europe,96,0.2708,0.2708,83,1584.6000,0.1354
+Central Europe,187,0.2086,0.2086,168,5279.2600,0.1016
+Nordics,83,0.2048,0.2048,75,1058.7500,0.0964
+Southern Europe,64,0.0938,0.0938,61,289.3600,0.0469

@@ -1,0 +1,71 @@
+ShipCountry,ShipCity,orders,customers,combinable,batches
+UK,London,33,5,19,23
+USA,Boise,31,1,18,23
+Brazil,Rio de Janeiro,34,3,18,25
+Brazil,São Paulo,31,4,18,22
+Mexico,México D.F.,28,5,15,20
+Austria,Graz,30,1,13,24
+Canada,Tsawassen,14,1,9,10
+Sweden,Luleå,18,1,7,15
+Germany,Cunewalde,28,1,6,25
+Germany,Frankfurt a.M.,15,1,6,12
+Venezuela,San Cristóbal,18,1,6,15
+USA,Albuquerque,18,1,6,15
+Belgium,Charleroi,12,1,6,9
+France,Marseille,17,1,6,14
+Sweden,Bräcke,19,1,4,17
+Germany,Brandenburg,14,1,4,12
+Ireland,Cork,19,1,4,17
+Germany,München,15,1,4,13
+USA,Portland,12,2,4,10
+Argentina,Buenos Aires,16,3,4,14
+Brazil,Resende,9,1,4,7
+Canada,Montréal,13,1,4,11
+Finland,Oulu,15,1,4,13
+France,Lyon,10,1,4,8
+UK,Cowes,10,1,3,8
+Spain,Madrid,8,2,2,7
+Switzerland,Bern,8,1,2,7
+Switzerland,Genève,10,1,2,9
+UK,Colchester,13,1,2,12
+Brazil,Campinas,9,1,2,8
+France,Reims,5,2,2,4
+Belgium,Bruxelles,7,1,2,6
+USA,Eugene,11,1,2,10
+USA,Kirkland,3,1,2,2
+USA,Seattle,14,1,2,13
+Venezuela,Barquisimeto,14,1,2,13
+Venezuela,I. de Margarita,12,1,2,11
+Spain,Sevilla,10,1,2,9
+Germany,Stuttgart,10,1,2,9
+France,Strasbourg,11,1,2,10
+France,Toulouse,14,1,2,13
+France,Versailles,4,1,2,3
+Italy,Bergamo,10,1,2,9
+Finland,Helsinki,7,1,2,6
+Italy,Torino,6,1,0,6
+France,Nantes,7,2,0,7
+Venezuela,Caracas,2,1,0,2
+USA,Walla Walla,2,1,0,2
+USA,San Francisco,4,1,0,4
+Austria,Salzburg,10,1,0,10
+USA,Lander,9,1,0,9
+Germany,Aachen,6,1,0,6
+Germany,Berlin,6,1,0,6
+USA,Elgin,5,1,0,5
+USA,Butte,3,1,0,3
+France,Lille,5,1,0,5
+USA,Anchorage,10,2,0,10
+Denmark,København,7,1,0,7
+Germany,Köln,10,2,0,10
+Germany,Leipzig,5,1,0,5
+Germany,Mannheim,7,1,0,7
+Germany,Münster,6,2,0,6
+Denmark,Århus,11,1,0,11
+Canada,Vancouver,3,1,0,3
+Italy,Reggio Emilia,12,1,0,12
+Spain,Barcelona,5,1,0,5
+Portugal,Lisboa,13,2,0,13
+Poland,Warszawa,7,1,0,7
+Norway,Stavern,6,1,0,6
+France,Paris,4,1,0,4

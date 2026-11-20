@@ -1,0 +1,9 @@
+sheet,rows,raw_columns,kept_columns,dropped_empty_columns,dropped_helper_columns,missing_by_column,duplicate_rows,duplicate_keys,date_ranges,columns,excel_used_range,formula_cells
+Categories,8,4,3,Picture,,,0,0,,"CategoryID, CategoryName, Description",A1:Z9,0
+Customers,91,11,11,,,Region=60; PostalCode=1; Fax=22,0,0,,"CustomerID, CompanyName, ContactName, ContactTitle, Address, City, Region, PostalCode, Country, Phone, Fax",A1:Z92,0
+Employees,9,17,17,,,Region=4; ReportsTo=1,0,0,BirthDate: 1952-02-19..1969-07-02; HireDate: 1992-04-01..1994-11-15,"EmployeeID, LastName, FirstName, Title, TitleOfCourtesy, BirthDate, HireDate, Address, City, Region, PostalCode, Country, HomePhone, Extension, Photo, Notes, ReportsTo",A1:Q10,0
+Orders Details,2155,5,5,,,,0,n/a,,"OrderID, ProductID, UnitPrice, Quantity, Discount",A1:E2156,0
+Orders,830,14,14,,,ShippedDate=21; ShipRegion=507; ShipPostalCode=19,0,0,OrderDate: 1996-07-04..1998-05-06; RequiredDate: 1996-07-24..1998-06-11; ShippedDate: 1996-07-10..1998-05-06,"OrderID, CustomerID, EmployeeID, OrderDate, RequiredDate, ShippedDate, ShipVia, Freight, ShipName, ShipAddress, ShipCity, ShipRegion, ShipPostalCode, ShipCountry",A1:N831,0
+Shippers,3,3,3,,,,0,0,,"ShipperID, CompanyName, Phone",A1:C4,0
+Product,77,16,10,Unnamed: 14,"Cheap, NewPrice, Cheap.1, IsCheap, NewPrice.1",,0,0,,"ProductID, ProductName, SupplierID, CategoryID, QuantityPerUnit, Price, UnitsInStock, UnitsOnOrder, ReorderLevel, Discontinued",A1:Z78,334
+Suppliers,29,12,12,,,Region=20; Fax=16; HomePage=26,0,0,,"SupplierID, CompanyName, ContactName, ContactTitle, Address, City, Region, PostalCode, Country, Phone, Fax, HomePage",A1:L30,0

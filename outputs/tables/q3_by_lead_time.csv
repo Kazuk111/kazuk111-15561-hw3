@@ -1,0 +1,4 @@
+lead_time,shipped,late,near_deadline,at_risk,median_slack,median_processing,mean_processing,slow_processing,late_rate,at_risk_rate,late_ci_low,late_ci_high,slow_rate
+14 days,68,12,2,14,6.5000,7.5000,10.0147,12,0.1765,0.2059,0.1039,0.2836,0.1765
+28 days,682,25,7,32,21.0000,7.0000,8.2757,76,0.0367,0.0469,0.0250,0.0536,0.1114
+42 days,59,0,0,0,35.0000,7.0000,9.2373,8,0.0000,0.0000,0.0000,0.0611,0.1356
