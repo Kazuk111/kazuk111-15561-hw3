@@ -48,7 +48,7 @@ After editing, reply with the following and nothing more:
 **Docstrings written**: for each function, method, or class, its location and the docstring as written:
 
 ````markdown
-#### `resample_frames` ‚Äî [video.py:42](video.py:42)
+#### `resample_frames` - [video.py:42](video.py:42)
 ```python
 """Resample video frames to a new frame rate.
 
